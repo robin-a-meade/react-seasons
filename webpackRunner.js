@@ -24,7 +24,7 @@ should then see your change reflected in the web view. A click
 of the web view's refresh icon is necessary if the build took 
 more than about a second.
 
-The Express HTTP server currently exists in this project soley 
+The Express HTTP server currently exists in this project solely 
 for the purpose of serving static assets from the \`public\` 
 folder, but its ready for you to add any backend services your 
 React client may need.
